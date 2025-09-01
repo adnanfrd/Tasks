@@ -40,6 +40,6 @@ This project is built with **React (Vite)** and demonstrates fetching, searching
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/react-task-fetcher.git
-cd react-task-fetcher
+git clone (https://github.com/adnanfrd/Tasks)
+cd Tasks
 npm install
